@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Time Table</title>
+</head>
+<body><table border="2">
+    <tr>
+        <th> Day</th>
+        <th> 1 </th>
+        <th> 2 </th>
+        <th> 3 </th>
+        <th bgcolor="red"> 4 </th>
+        <th> 5 </th>
+        <th> 6 </th>
+        <th> 7 </th>
+
+    </tr>
+    <tr>
+        <td align="center"> Monday</td>
+        <td align="center"> LLC2 (SK) </td>
+        <td colspan="2" align="center"> Practical WD</td> 
+        <td rowspan="6" bgcolor="red">RECESS</td>
+        <td align="center"> M2 </td>
+        <td align="center"> Make up Class</td>
+        <td align="center"> Forum</td>
+    </tr>
+    <tr>
+        <td align="center"> Tuesday</td>
+        <td align="center"> EE (AP) </td>
+        <td align="center"> ACP</td> 
+        <td align="center"> Sports</td>
+        <td align="center"> Tutorial</td>
+        <td colspan="2" align="center"> Practical CEL</td>
+        
+    </tr>
+    <tr>
+        <td align="center"> Wednesday</td>
+        <td align="center"> EC(sK) </td>
+        <td colspan="2" align="center" > Practical ECL</td> 
+        <td align="center"> EC(sK) </td>
+        <td align="center"> M2</td>
+        <td colspan="2" align="center"> Practical WD</td>
+    </tr>
+    <tr>
+        <td align="center">Thursday</td>
+        <td align="center"> EC(sK) </td>
+        <td colspan="2" align="center" > Practical CEL</td> 
+        <td align="center"> Library</td>
+        <td colspan="2" align="center" > LLC2</td>
+    </tr>
+    <tr>
+        <td align="center">Friday</td>
+        <td align="center"> EE(AP) </td>
+        <td align="center"> Tutorial</td>
+        <td align="center"> Self Learning</td> 
+        <td align="center"> ACP </td>
+        <td align="center"> CE(AG)</td>
+        <td align="center"> NPTEL </td>
+    </tr>
+    <tr>
+        <td align="center"> Saturday</td>
+        <td align="center"> M2 (OA)</td>
+        <td colspan="2" align="center" > Practical ACPL</td> 
+        <td align="center"> T.G. Hours</td>
+        <td colspan="2" align="center" > Practical ECL</td>
+    </tr>
+</table>
+    
+</body>
+</html>
